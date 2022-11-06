@@ -1,3 +1,6 @@
+/*
+This code will only run in Turbo
+*/
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
